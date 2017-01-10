@@ -1,0 +1,2 @@
+0 7-19/1 * * * sh /usr/IIW/kasha.sh
+
